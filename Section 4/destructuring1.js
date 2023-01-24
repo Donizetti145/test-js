@@ -6,7 +6,8 @@ const pessoa = {
     idade: 5,
     endereco: {
         rua: 'Rua feliz',
-        numero: 100
+        numero: 100,
+        cep: 12
     }
 }
 
